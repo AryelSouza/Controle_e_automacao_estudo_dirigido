@@ -27,9 +27,9 @@ Realimentação (Sensor)
 
 O sistema de malha fechada é representado por:
 
-\[
+$$
 T(s) = \frac{C(s)G(s)}{1 + C(s)G(s)H(s)}
-\]
+$$
 
 A realimentação altera:
 - **Ganho** → afeta a precisão
