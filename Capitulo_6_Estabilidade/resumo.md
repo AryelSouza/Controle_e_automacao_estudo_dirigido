@@ -19,9 +19,9 @@ Matematicamente, a estabilidade depende da **posição dos polos** da função d
 ## 3. Critério de Estabilidade
 Para um sistema linear com função de transferência:
 
-\[
+$$
 T(s) = \frac{N(s)}{D(s)} = \frac{N(s)}{s^n + a_1 s^{n-1} + a_2 s^{n-2} + \dots + a_n}
-\]
+$$
 
 O sistema é **estável** se **todos os polos (raízes de D(s))** estiverem no **semiplano esquerdo** do plano complexo (parte real negativa).
 
@@ -32,23 +32,25 @@ Permite verificar a estabilidade **sem calcular explicitamente os polos**.
 
 Para um polinômio característico:
 
-\[
+$$
 D(s) = a_0 s^n + a_1 s^{n-1} + \dots + a_n
-\]
+$$
 
 Construímos a **tabela de Routh**, e o sistema é estável se **todos os elementos da primeira coluna forem positivos**.
 
 ### Exemplo:
-\[
+
+$$
 D(s) = s^3 + 2s^2 + 3s + 5
-\]
+$$
+
 → Primeira coluna de Routh: [1, 2, 2, 5] → todos positivos → **estável**.
 
 ---
 
 ## 5. Relação com o Lugar das Raízes
-A posição dos polos em função do ganho \(K\) pode ser estudada pelo **método do Lugar das Raízes** (Capítulo 7).  
-À medida que \(K\) aumenta, os polos se movem e podem atravessar o eixo imaginário — indicando **perda de estabilidade**.
+A posição dos polos em função do ganho $$\(K\)$$ pode ser estudada pelo **método do Lugar das Raízes** (Capítulo 7).  
+À medida que $$\(K\)$$ aumenta, os polos se movem e podem atravessar o eixo imaginário — indicando **perda de estabilidade**.
 
 ---
 
