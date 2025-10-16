@@ -12,18 +12,18 @@ O desempenho pode ser medido tanto no **domínio do tempo** (resposta transitór
 É o comportamento do sistema **logo após** a aplicação de uma entrada (ex: degrau).  
 Para sistemas de 2ª ordem, a resposta depende de dois parâmetros:
 
-\[
+$$
 \omega_n = \text{frequência natural não amortecida}
-\]
-\[
+$$
+$$
 \zeta = \text{fator de amortecimento}
-\]
+$$
 
 A forma geral é:
 
-\[
+$$
 T(s) = \frac{\omega_n^2}{s^2 + 2\zeta\omega_n s + \omega_n^2}
-\]
+$$
 
 ### Parâmetros importantes:
 | Parâmetro | Símbolo | Significado |
