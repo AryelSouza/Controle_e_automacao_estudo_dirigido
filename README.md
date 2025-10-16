@@ -41,5 +41,35 @@ Consolidar os conceitos fundamentais de **Controle e Automação**, conectando t
 
 ---
 
-## 🌐 Estrutura do Repositório
 
+---
+
+## 📅 Cronograma de Entregas
+
+| Etapa | Conteúdo | Data |
+|:------|:----------|:------:|
+| Entrega 1 | Capítulos 4, 5 e 6 – Realimentação, Desempenho e Estabilidade | **30/10/2025** |
+| Entrega 2 | Capítulos 7, 10 e 13 – LGR, Projeto e Controle Digital | **27/11/2025** |
+| Entrega Final | Relatório Integrador – Conexão com Indústria 4.0 | **11/12/2025** |
+
+---
+
+## 🚀 Resultados Esperados
+
+- **Domínio Teórico:** compreender feedback, estabilidade, projeto e controle digital  
+- **Competência Prática:** implementar e simular controladores PID e digitais  
+- **Visão Industrial:** conectar teoria à Indústria 4.0, com foco em automação inteligente e otimização de processos  
+
+---
+
+## ✍️ Autores
+
+**Aryel de Souza Silva**
+
+**Daniel Lima Neto**
+
+Discentes de Engenharia de Computação – IFPB  
+
+---
+
+> 💡 *“A automação moderna não substitui o engenheiro — ela o transforma em um designer de inteligência.”*
