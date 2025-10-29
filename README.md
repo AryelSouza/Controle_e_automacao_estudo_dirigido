@@ -71,5 +71,3 @@ Consolidar os conceitos fundamentais de **Controle e Automação**, conectando t
 Discentes de Engenharia de Computação – IFPB  
 
 ---
-
-> 💡 *“A automação moderna não substitui o engenheiro — ela o transforma em um designer de inteligência.”*
