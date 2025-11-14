@@ -13,15 +13,15 @@ O **Lugar das Raízes (LGR)** é uma ferramenta gráfica que mostra como os **po
 
 ## 2. Função de Transferência de Malha Fechada
 
-\[
+$$
 T(s) = \frac{K G(s)}{1 + K G(s)}
-\]
+$$
 
 Os polos da malha fechada são as raízes da equação:
 
-\[
+$$
 1 + K G(s) = 0
-\]
+$$
 
 O LGR mostra **para quais regiões do plano s** os polos se movem conforme K varia.
 
@@ -35,25 +35,25 @@ Cada **polo de malha aberta** gera um ramo do LGR.
 ### 3.2. Assimptotas
 Quando K → ∞, algumas raízes vão para o infinito.
 
-\[
+$$
 \theta_k = \frac{(2k+1)\pi}{n-m}
-\]
+$$
 
-\[
+$$
 \sigma = \frac{\sum \text{Polos} - \sum \text{Zeros}}{n-m}
-\]
+$$
 
 ### 3.3. Critério de Ângulo
 Um ponto s pertence ao LGR se:
 
-\[
+$$
 \angle G(s) = (2k+1)\pi
-\]
+$$
 
 ### 3.4. Critério de Magnitude
-\[
+$$
 K = \frac{1}{|G(s)|}
-\]
+$$
 
 ---
 
