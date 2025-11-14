@@ -23,7 +23,7 @@ Consolidar os conceitos fundamentais de **Controle e Automação**, conectando t
 | Parte 1 | Capítulo 4 | Características de Sistemas de Controle com Realimentação | [📓 Notebook](./Capitulo_4_Feedback/Simulacoes.ipynb) • [🧾 Resumo](./Capitulo_4_Feedback/resumo.md) • [🏭 Aplicações](./Capitulo_4_Feedback/aplicacoes_industriais.md) |
 | Parte 2 | Capítulo 5 | Desempenho de Sistemas de Controle com Realimentação | [📓 Notebook](./Capitulo_5_Desempenho/Simulacoes.ipynb) • [🧾 Resumo](./Capitulo_5_Desempenho/resumo.md) • [🏭 Aplicações](./Capitulo_5_Desempenho/aplicacoes_industriais.md) |
 | Parte 3 | Capítulo 6 | Estabilidade de Sistemas Lineares com Realimentação | [📓 Notebook](./Capitulo_6_Estabilidade/Simulacoes.ipynb) • [🧾 Resumo](./Capitulo_6_Estabilidade/resumo.md) • [🏭 Aplicações](./Capitulo_6_Estabilidade/aplicacoes_industriais.md) |
-| Parte 4 | Capítulo 7 | O Método do Lugar das Raízes | 🔜 *(em desenvolvimento)* |
+| Parte 4 | Capítulo 7 | O Método do Lugar das Raízes | [📓 Notebook](./Capitulo_7_LGR/Simulacoes.ipynb) • [🧾 Resumo](./Capitulo_7_LGR/resumo.md) • [🏭 Aplicações](./Capitulo_7_LGR/aplicacoes_industriais.md) |
 | Parte 5 | Capítulo 10 | Projeto de Sistemas de Controle com Realimentação | 🔜 *(em desenvolvimento)* |
 | Parte 6 | Capítulo 13 | Sistemas de Controle Digital | 🔜 *(em desenvolvimento)* |
 
